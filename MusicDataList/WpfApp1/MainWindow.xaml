@@ -1,0 +1,36 @@
+﻿<Window x:Class="MusicDataList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicDataList"
+        
+        mc:Ignorable="d"
+        Title="MusicList" Height="493" Width="800">
+    <Grid Margin="0,-6,0,0" Height="429" VerticalAlignment="Top">
+
+        <Button Content="読み出し" HorizontalAlignment="Left" Margin="24,10,0,0" VerticalAlignment="Top" Width="103" Height="38" Click="FileReadButton_Click"/>
+        <Button x:Name="FileSaveButton" Content="保存" HorizontalAlignment="Left" Height="38" Margin="152,10,0,0" VerticalAlignment="Top" Width="108" Click="FileSaveButton_Click"/>
+
+        <TextBox DragOver="TbDragOver" Drop="TbDrop" IsReadOnly="True" AllowDrop="True"  HorizontalAlignment="Left" Height="33" Margin="147,58,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="508" Name="FilePath" />
+        <Button Content="参照" AllowDrop="True" HorizontalAlignment="Left" Margin="651,58,0,0" VerticalAlignment="Top" Width="79" Click="FileAccessButton_Click" Height="33"/>
+
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Left" Height="38" Margin="24,62,0,329" TextWrapping="Wrap" VerticalAlignment="Center" Width="108"><Run Text="ファイル名"/><LineBreak/><Run/></TextBlock>
+
+        <TextBlock TextAlignment="Center" HorizontalAlignment="Left" Height="23" Margin="35,117,0,289" TextWrapping="Wrap" VerticalAlignment="Center" Width="66"><Run Text="実行結果"/><LineBreak/><Run/></TextBlock>
+
+        <DataGrid x:Name="DataGrid" SelectionUnit="FullRow" SelectionMode="Single" CanUserAddRows="False" CanUserDeleteRows="False" ItemsSource="{Binding BindDataList, NotifyOnSourceUpdated=True,UpdateSourceTrigger=PropertyChanged}"  AutoGenerateColumns="False" HorizontalAlignment="Left" Height="245" Margin="25,170,0,0" VerticalAlignment="Top" Width="735" >
+
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="Number" Header="番号" Width="Auto" IsReadOnly="True" Binding="{Binding Number, NotifyOnSourceUpdated=True,UpdateSourceTrigger=PropertyChanged}" ></DataGridTextColumn>
+                <DataGridTextColumn x:Name="Song"   Header="曲名" Width="*" Binding="{Binding Song, NotifyOnSourceUpdated=True,UpdateSourceTrigger=PropertyChanged}" ></DataGridTextColumn>
+                <DataGridTextColumn x:Name="Artist" Header="アーティスト名" Width="*" Binding="{Binding Artist , NotifyOnSourceUpdated=True}"></DataGridTextColumn>
+                <DataGridTextColumn x:Name="Genre"  Header="ジャンル" Width="Auto" Binding="{Binding Genre , NotifyOnSourceUpdated=True,UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                <DataGridTextColumn x:Name="BPM"    Header="BPM" Width="Auto" Binding="{Binding BPM , NotifyOnSourceUpdated=True,UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="AddButton"  Content="追加ボタン" HorizontalAlignment="Left" Height="34" Margin="627,126,0,0" VerticalAlignment="Top" Width="68" Click="AddRowButton_Click" RenderTransformOrigin="-0.059,-0.471"/>
+        <Button x:Name="RemoveButton"  Content="削除ボタン" HorizontalAlignment="Left" Height="34" Margin="710,125,0,0" VerticalAlignment="Top" Width="68" Click="RemoveButton_Click" RenderTransformOrigin="-0.059,-0.471"/>
+    </Grid>
+</Window>

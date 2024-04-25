@@ -1,0 +1,608 @@
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20200706 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20200707 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210708 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210709 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210712 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+\\192.168.129.122\DR-Platform\oda\2021071３ oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\新しいフォルダー\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\20210719\20210716 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\作業中\20210720 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\20210721 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\20210726修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\20210727修正中\20210726 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210727修正済み\20210727 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプデ１　20210728修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210728修正済み\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+\\192.168.129.122\DR-Platform\oda\アプリ１　20210729修正中\20210728 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210729修正済み\20210729 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\個人作業用\Antares関連\アプリ作成\PostProc編集アプリ　20210730修正済み\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.g.cs
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.g.cs
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\SubWindow1.baml
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\XmlDataAccess.baml
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Antares\Desktop\20240424\PostProc\20210730 oda WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
